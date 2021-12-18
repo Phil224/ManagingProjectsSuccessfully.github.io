@@ -5,15 +5,19 @@ author: Phil224
 anrechnung: k
 ---
 
+# Geographische Unterschiede im Projektmanagement
+
 Die weltweit unterschiedliche Planung und Durchführung von Projekten resultiert häufig aus den verschiedenen kulturellen Gepflogenheiten der einzelnen Länder und Kulturen. Das Project Management Institute definierte den Begriff Kultur: „Culture is the totality of socially transmitted behavior patterns, arts, beliefs, institutions and all other products of human work and thought”[^1]. Folglich handelt es sich um innere Wert, die wir von klein auf von unserem sozialen Umfeld vermittelt bekommen haben und die Einfluss auf unser tägliches Handeln und Denken haben[^2]. Die kulturelle Herkunft sorgt daher für eine unterschiedliche Herangehensweise im Projektmanagement. 
 Nachfolgend werden verschiedene kulturelle Aspekte betrachtet, die einen Einfluss auf die geographischen Unterschiede im Projektmanagement haben. 
 
 
-# Geographische Unterschiede
+# Aspekte
 
 ## Führung
 
 Einen großen Einfluss auf den Erfolg eines Projektes hat der jeweilige Führungsstil des Projektleiters. In seinem Werk zu Klassifizierung von Kulturen hat der niederländische Forscher Hofstede den Begriff Machtdistanz entwickelt, der das hierarchische Verhältnis zwischen Vorgesetzten und Mitarbeiter misst. Dabei weist ein sehr hoher Wert auf eine sehr hierarchische Organisationsstruktur hin, während ein niedriger Wert auf flache Hierarchien hindeutet. Im Deutschen sowie skandinavischen Raum ist die Machtdistanz tendenziell eher niedrig, in asiatischen, arabischen und südamerikanischen Ländern eher hoch. In Ländern mit niedriger Machtdistanz tritt die Führungskraft häufig als Coach auf und die Mitarbeiter agieren proaktiv und eigenverantwortlich. Währenddessen fordert die Führungskraft in Ländern mit hoher Machtdistanz Respekt von seinen Mitarbeitern ein und sieht sich eher als Oberhaupt an. In diesen Ländern liegt der Fokus der Angestellten auf der korrekten Erfüllung der aufgetragenen Tätigkeit und Ihre Haltung ist eher diskret und bescheiden[^3][^2].  
+
+![Beispielabbildung](Projektmanagement_Geographische_Unterschiede/kulturdimensionen-nach-hofstede.jpg) 
 
 ## Kommunikation
 
@@ -51,7 +55,7 @@ Neben den genannten Aspekten gibt es auch geographische Unterschiede in der Gest
 
 # Weiterführende Literatur
 
-Website: https://t2informatik.de/blog/projektmanagement/kulturelle-unterschiede-in-projekten/
+https://t2informatik.de/blog/projektmanagement/kulturelle-unterschiede-in-projekten/
 
 # Quellen
 
@@ -66,4 +70,4 @@ Quellen:
 [^4]: Erfolgreiches interkulturelles Projektmanagement: 
       https://www.projektivisten.de/fileadmin/_migrated/content_uploads/Erfolgreiches-interkulturelles-Projektmanagement.pdf
 
-[^5]: Abbildung: Kulturdimensionen nach Hofstede https://www.wirtschafts-lehre.de/kulturdimensionen-nach-hofstede.html
+[^5]: Abbildung: Kulturdimensionen nach Hofstede: https://www.wirtschafts-lehre.de/kulturdimensionen-nach-hofstede.html
